@@ -1,0 +1,23 @@
+DirectoryIndex index.php
+RewriteEngine on
+RewriteCond $1 !^(index\.php|images|css|js|robots\.txt|favicon\.ico)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ ./index.php?/$1 [L,QSA]
+
+Redirect 301 /medical-oxygen-generator-in-india-oxygen-plant-for-hospital https://absstem.com/products
+Redirect 301 /medical-oxygen-medo https://absstem.com/products
+Redirect 301 /about-absstem https://absstem.com/aboutus
+
+Redirect 301 /frontend/images/banner-animation.webp https://absstem.com/
+Redirect 301 /medical-oxygen-generator-schemes-for-hospitals/ https://absstem.com/
+Redirect 301 /what-kind-of-service-facilities-will-be-provided/ https://absstem.com/
+Redirect 301 /what-is-the-minimum-level-of-purity-required/ https://absstem.com/
+Redirect 301 /medo-vs-liquid-oxygen/ https://absstem.com/
+Redirect 301 /key-features-benefits/ https://absstem.com/
+Redirect 301 /cylinder-filling-systems/ https://absstem.com/
+Redirect 301 /new-product-development/ https://absstem.com/
+Redirect 301 /models/ https://absstem.com/
+Redirect 301 /medical-oxygen-in-rural-areas-india-becomes-the-3rd-largest-electricity.../ https://absstem.com/
+Redirect 301 /how-is-oxygen-cylinder-filled-done-/ https://absstem.com/
+Redirect 301 /frontend/images/partners-bg-mobile.webp https://absstem.com/

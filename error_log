@@ -1,0 +1,29 @@
+[03-Feb-2023 08:06:50 America/New_York] PHP Fatal error:  Cannot use [] for reading in /home/jntpsior/public_html/iq/application/controllers/administrator/Quiz.php on line 111
+[04-Feb-2023 00:00:45 America/New_York] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/jntpsior/public_html/iq/application/views/payment.php on line 7
+[20-Feb-2023 03:07:41 America/New_York] PHP Fatal error:  Switch statements may only contain one default clause in /home/smargeqv/public_html/test/application/third_party/mpdf/mpdf.php on line 1422
+[20-Feb-2023 03:08:06 America/New_York] PHP Fatal error:  Switch statements may only contain one default clause in /home/smargeqv/public_html/test/application/third_party/mpdf/mpdf.php on line 1422
+[20-Feb-2023 03:09:28 America/New_York] PHP Fatal error:  Switch statements may only contain one default clause in /home/smargeqv/public_html/test/application/third_party/mpdf/mpdf.php on line 1422
+[20-Feb-2023 03:10:22 America/New_York] PHP Fatal error:  Switch statements may only contain one default clause in /home/smargeqv/public_html/test/application/third_party/mpdf/mpdf.php on line 1422
+[20-Feb-2023 03:10:24 America/New_York] PHP Fatal error:  Switch statements may only contain one default clause in /home/smargeqv/public_html/test/application/third_party/mpdf/mpdf.php on line 1422
+[20-Feb-2023 03:11:10 America/New_York] PHP Fatal error:  Switch statements may only contain one default clause in /home/smargeqv/public_html/test/application/third_party/mpdf/mpdf.php on line 1422
+[20-Feb-2023 03:11:42 America/New_York] PHP Fatal error:  Switch statements may only contain one default clause in /home/smargeqv/public_html/test/application/third_party/mpdf/mpdf.php on line 1422
+[20-Feb-2023 03:34:09 America/New_York] PHP Fatal error:  Switch statements may only contain one default clause in /home/smargeqv/public_html/test/application/third_party/mpdf/mpdf.php on line 1422
+[10-Mar-2023 12:35:44 America/New_York] PHP Parse error:  syntax error, unexpected 'images' (T_STRING), expecting ',' or ';' in /home/smargeqv/public_html/test/application/controllers/administrator/Home.php on line 704
+[10-Mar-2023 12:37:05 America/New_York] PHP Parse error:  syntax error, unexpected 'images' (T_STRING), expecting ',' or ';' in /home/smargeqv/public_html/test/application/controllers/administrator/Home.php on line 720
+[10-Mar-2023 12:37:32 America/New_York] PHP Parse error:  syntax error, unexpected 'images' (T_STRING), expecting ',' or ';' in /home/smargeqv/public_html/test/application/controllers/administrator/Home.php on line 746
+[10-Mar-2023 12:45:46 America/New_York] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' in /home/smargeqv/public_html/test/application/controllers/administrator/Home.php on line 1239
+[10-Mar-2023 12:46:17 America/New_York] PHP Parse error:  syntax error, unexpected ''</h2></td>' (T_ENCAPSED_AND_WHITESPACE) in /home/smargeqv/public_html/test/application/controllers/administrator/Home.php on line 1209
+[10-Mar-2023 12:46:40 America/New_York] PHP Parse error:  syntax error, unexpected ''</em></h2></td>' (T_ENCAPSED_AND_WHITESPACE) in /home/smargeqv/public_html/test/application/controllers/administrator/Home.php on line 1194
+[10-Mar-2023 12:47:09 America/New_York] PHP Parse error:  syntax error, unexpected '' only</strong></p>' (T_ENCAPSED_AND_WHITESPACE) in /home/smargeqv/public_html/test/application/controllers/administrator/Home.php on line 1129
+[10-Mar-2023 12:49:23 America/New_York] PHP Parse error:  syntax error, unexpected '' only</strong></p>' (T_ENCAPSED_AND_WHITESPACE) in /home/smargeqv/public_html/test/application/controllers/administrator/Home.php on line 796
+[10-Mar-2023 12:49:49 America/New_York] PHP Parse error:  syntax error, unexpected ''.$result->id ; ?>?role=other"' (T_ENCAPSED_AND_WHITESPACE) in /home/smargeqv/public_html/test/application/controllers/administrator/Home.php on line 793
+[10-Mar-2023 12:50:09 America/New_York] PHP Parse error:  syntax error, unexpected ''images/down-arrow-user.png"><' (T_ENCAPSED_AND_WHITESPACE) in /home/smargeqv/public_html/test/application/controllers/administrator/Home.php on line 713
+[10-Mar-2023 19:14:32 America/New_York] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home/smargeqv/public_html/test/application/controllers/Home.php on line 911
+[10-Mar-2023 19:16:37 America/New_York] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home/smargeqv/public_html/test/application/controllers/Home.php on line 911
+[10-Mar-2023 19:25:37 America/New_York] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home/smargeqv/public_html/test/application/controllers/Home.php on line 911
+[10-Mar-2023 21:13:16 America/New_York] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home/smargeqv/public_html/test/application/controllers/Home.php on line 911
+[10-Mar-2023 21:13:16 America/New_York] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home/smargeqv/public_html/test/application/controllers/Home.php on line 911
+[10-Mar-2023 21:13:20 America/New_York] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home/smargeqv/public_html/test/application/controllers/Home.php on line 911
+[10-Mar-2023 22:57:48 America/New_York] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home/smargeqv/public_html/test/application/controllers/Home.php on line 911
+[20-Mar-2023 08:00:53 America/New_York] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/smargeqv/public_html/test/application/controllers/administrator/Home.php on line 1413
+[28-Mar-2023 09:45:22 America/New_York] PHP Parse error:  syntax error, unexpected 'to' (T_STRING) in /home/smargeqv/public_html/test/application/controllers/administrator/Home.php on line 1030
